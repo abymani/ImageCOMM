@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.0_ccc5b6ae82d80baa171aff0472de7b59f49ad213/classes.dex" />
+    </item>
+    <item
+        jar="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_87886c54f5f97d7718cd225e9006e97e83cdacbb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.0_a1f32aa42826ba74f3864e581f3ccf157699145d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_4939a369590c1d7e5a159942d744076fc643717c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_ded9b322602ee6f4ef352b038a480ac91ca83745/classes.dex" />
+    </item>
+    <item
+        jar="/Users/abymani/AndroidStudioProjects/Image_COMM/app/libs/commons-io-2.5.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2852e6e05fbb95076fc091f6d1780f1f8fe35e0f">
+        <dex dex="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-io-2.5_4325439d762799a6e0ae878f54b808174e8bf2a5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_43030ba5d60bd8c6d954e35edd484d63799a300f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_4fb0802d77ea6f22fd0948abafcb0d2024f3b6fe/classes.dex" />
+    </item>
+    <item
+        jar="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_adf587b1c11cf070447b14dc73c35bae02c5e66f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_1724fc8df51092610c739eb139f0a6362d0faffc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_1d7c59e64c7167d3f9d4f86a356228a174f7b412/classes.dex" />
+    </item>
+    <item
+        jar="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_255c6a4e99b3a94adb7f68c06d3f7dc67d1ce3fb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_abc6ba7c6ae00da5698eea86d198065ff2c1f8c3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/abymani/AndroidStudioProjects/Image_COMM/app/libs/commons-codec-1.3.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fd32786786e2adb664d5ecc965da47629dca14ba">
+        <dex dex="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-codec-1.3_9ddffded23ccdb3616acce0e60037739347bcf3f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="24b90cc39ee9f0df51bda4b2b66feea0bf3cf211">
+        <dex dex="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_01f086b51a68cd8a25bcc7e673f200bf00e1f413/classes.dex" />
+    </item>
+    <item
+        jar="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_3f39c534dde050c0fb470eb2f3c0d961452d72d2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="bfa353702435caa446987da3c105ba3bc28ee4ec">
+        <dex dex="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_708c5a0c13cea938336877e6968867eb542a32af/classes.dex" />
+    </item>
+    <item
+        jar="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_fd90822d72492d48805b9aa8c4dc42e61c1a450f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_388fbaeb37b02daa14631225b1753d9f0654a7ad/classes.dex" />
+    </item>
+    <item
+        jar="/Users/abymani/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_ca8006a8a6a5dec476b25cffcca5f40392c9f4f4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/abymani/AndroidStudioProjects/Image_COMM/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_6840ed5e0f6983436451d26a408e8521c7800d06/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+
+    android:background="@drawable/back">
+    <SurfaceView
+        android:id="@+id/surface_camera"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_alignParentTop="true"
+
+        ></SurfaceView>
+
+    <ImageView
+        android:layout_width="140dp"
+        android:layout_height="170dp"
+
+        android:id="@+id/imgView"
+
+
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="100dp"
+        android:layout_below="@+id/surface_camera"
+        android:layout_marginRight="10dp" />
+    <ImageView
+        android:layout_width="170dp"
+        android:layout_height="170dp"
+        android:id="@+id/imgView2"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="10dp"
+        android:layout_alignTop="@+id/imgView"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>
